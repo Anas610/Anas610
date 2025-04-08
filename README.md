@@ -20,6 +20,7 @@
 <a href="https://www.facebook.com/Anas11hossam/" target="_blank"><img src="https://img.shields.io/badge/-Anas%20Hossam-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech used
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-typeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![ReactNative.js](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=reactNative)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
