@@ -7,10 +7,10 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-Stack%20Developer;React%20Native%20Developer;Software%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=React%20Developer;React%20Native%20Developer;Software%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 👨‍💻 I'm a Software Engineer and a MERN Stack Developer
+- 👨‍💻 I'm a Software Engineer and a Mobile App Developer
 - 💬 As a CS student,I find my passion in Coding and I'm constantly learning and exploring new technologies to improve my skills. 
 
 
